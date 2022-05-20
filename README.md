@@ -25,7 +25,7 @@ No projeto To Do List é um projeto de estudos, da Trybe, onde a aplicação é 
 ## Instruções de como rodar o projeto
 
 1. Clone o repositório
-`git clone .git@github.com:augutoraminelli/TODO-LIST-PROJECT.git
+- `git clone .git@github.com:augutoraminelli/TODO-LIST-PROJECT.git
 
 2. Suba o Mongo no docker com o comando no seu terminal
 - `docker run --name mongo -d -p 27017:27017 -p 28017:28017`
