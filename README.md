@@ -25,29 +25,23 @@ No projeto To Do List é um projeto de estudos, da Trybe, onde a aplicação é 
 ## Instruções de como rodar o projeto
 
 1. Clone o repositório
+`git clone .git@github.com:augutoraminelli/TODO-LIST-PROJECT.git
 
-- `git clone .git@github.com:augutoraminelli/TODO-LIST-PROJECT.git
-
-- Entre na pasta do repositório que você acabou de clonar:
-  - `cd TODO-LIST-PROJECT
- 
-- Suba o Mongo no docker com o comando no seu terminal
-
+2. Suba o Mongo no docker com o comando no seu terminal
 - `docker run --name mongo -d -p 27017:27017 -p 28017:28017`
 
+3. Entre na pasta do repositório que você acabou de clonar:
+ `cd TODO-LIST-PROJECT
 
-1. Instale as dependências
-
+4. Instale as dependências
 - `npm install`
 
-2. Entre na pasta do Backend em rode o projeto
-  - `cd backend`
-
+5. Entre na pasta do Backend em rode o projeto
+ `cd backend`
 - `npm start`
 
-3. Entre na pasta do Frontend em rode o projeto
-  - `cd frontend`
-
+6. Entre na pasta do Frontend em rode o projeto
+ `cd frontend`
 - `npm start`
 
 
