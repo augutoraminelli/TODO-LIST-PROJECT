@@ -119,7 +119,7 @@ docker ps
    
 ## [BACKEND]
 
-10 - [ENDOPOINT '/todo', method POST]
+10 - [ENDOPOINT  `/todo`,  method  `POST`]
    
     - Ter uma rota para o endpoint `/todo` onde seja possível cadastrar uma nova Task
 
