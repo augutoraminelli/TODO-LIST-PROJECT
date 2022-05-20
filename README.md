@@ -45,6 +45,7 @@ No projeto To Do List é um projeto de estudos, da Trybe, onde a aplicação é 
     * Existe um SELECT Status
         
 4 - [PAGE TASK]
+
     * Ter um componente "TASKLIST" com as tarefas criadas 
     * Mostrar as respectivas tarefas criadas.
     
@@ -56,6 +57,7 @@ No projeto To Do List é um projeto de estudos, da Trybe, onde a aplicação é 
 6 - [BOTÃO DE EDIT TASK]
    * Quando clicado, deve abilitar o campo input que receba um valor novo
    * Abrir um modal para edição do content e cancelar ou salvar
+   * Quando clica em editat abre um Modal TASKEDITMODAL
    
 7 - [BOTÃO DE DELETAR TASK]
    * Quando clicado, deve eliminar a tareka da lista
