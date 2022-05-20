@@ -1,6 +1,6 @@
 import mongoose, { Schema, model as makeModel } from "mongoose";
-// import ModelGeneric from "./ModelGeneric";
-// import { Todo } from "../../types";
+import ModelGeneric from "./ModelGeneric";
+import { Todo } from "../../types";
 
 const toDoSchema = new mongoose.Schema({
   content: {
