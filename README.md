@@ -129,6 +129,25 @@ docker ps
           contetent: "Estdar React",
           status: "Pendente"
        ``` 
+       
+11 - [ENDOPOINT  `/todo`,  method  `GET`]
+   
+    - Ter uma rota para o endpoint `/todo` onde seja possível receber todas as Tasks criadas
+
+      - Sua API deve responder com status http `200` e o seguinte body:
+       ```[
+            {
+             _id: "4edd40c86762e0fb12000003",
+             contetent: "Estdar React",
+             status: "Pendente"
+            },
+            {
+             _id: "4edd40c86762e0fb12000003",
+             contetent: "Estdar Next",
+             status: "Pendente"
+            }
+          ]
+       ``` 
 
 
 
