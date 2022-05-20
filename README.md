@@ -126,7 +126,7 @@ docker ps
       - Sua API deve responder com status http `201` e o seguinte body:
        ```JSON
           _id: "4edd40c86762e0fb12000003",
-          contetent: "Estdar React",
+          contetent: "Estudar React",
           status: "Pendente"
        ``` 
        
@@ -138,15 +138,51 @@ docker ps
        ```[
             {
              _id: "4edd40c86762e0fb12000003",
-             contetent: "Estdar React",
+             contetent: "Estudar React",
              status: "Pendente"
             },
             {
              _id: "4edd40c86762e0fb12000003",
-             contetent: "Estdar Next",
+             contetent: "Estudar Next",
              status: "Pendente"
             }
           ]
+       ``` 
+ 
+ 12 - [ENDOPOINT  `/todo/:id`,  method  `GET`]
+   
+    - Ter uma rota para o endpoint `/todo/:id` onde seja possível Receber uma Task específica
+    - É disparado o erro `404` caso o id possua 24 caracteres mas é inválido;
+
+      - Sua API deve responder com status http `200` e o seguinte body:
+       ```JSON
+             _id: "4edd40c86762e0fb12000003",
+             contetent: "Estudar React",
+             status: "Pendente"
+       ``` 
+       
+ 13 - [ENDOPOINT  `/todo/:id`,  method  `PUT`]
+   
+    - Ter uma rota para o endpoint `/todo/:id` onde seja possível atualizar uma Task
+    - É disparado o erro `404` caso o id possua 24 caracteres mas é inválido;
+
+      - Sua API deve responder com status http `200` e o seguinte body:
+       ```JSON
+             _id: "4edd40c86762e0fb12000003",
+             contetent: "Estudar React",
+             status: "Pronto"
+       ```
+       
+ 14 - [ENDOPOINT  `/todo/:id`,  method  `DELETE`]
+   
+    - Ter uma rota para o endpoint `/todo/:id` onde seja possível deletar uma TASK
+    - É disparado o erro `404` caso o id possua 24 caracteres mas é inválido;
+
+      - Sua API deve responder com status http `204` e o seguinte body:
+       ```JSON
+             _id: "4edd40c86762e0fb12000003",
+             contetent: "Estudar React",
+             status: "Pronto"
        ``` 
 
 
