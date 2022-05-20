@@ -6,19 +6,22 @@ Boas vindas ao repositório do projeto To Do List!
 Aqui você vai encontrar os detalhes de como rodar o projeto a partir desse repositório e utilizar a lista de Tarefas. #vqv 🚀
 
 Stack do projeto - MERN
-Mongo
-Express
-React
-Node
+* Mongo
+* Express
+* React
+* Node
+
 O que foi desenvolvido
 
 No projeto To Do List é um projeto de estudos, da Trybe, onde a aplicação é uma lista de tarefas, onde é possível um usuário da aplicação:
 
-Ler tarefas
-Criar novas tarefas
-Mudar o status de uma tarefa realizada
-Atualizar Tarefas existentes
-Deletar tarefas
+* Ler tarefas
+* Criar novas tarefas
+* Mudar o status de uma tarefa realizada
+* Atualizar Tarefas existentes
+* Deletar tarefas
+
+
 Instruções de como rodar o projeto
 
 Requisitos do projeto
