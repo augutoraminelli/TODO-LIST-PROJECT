@@ -54,27 +54,27 @@ No projeto To Do List é um projeto de estudos, da Trybe, onde a aplicação é 
     
 5 - [BOTÃO DE ADICIONAR TASK]
 
-   * Quando clicado, envia o dado do tipo string para o banco de dados Mongo
-   * Zera o valor do campo após o clique.
-   * Botão fica desabilitado caso não tenha informação no input.
-   
+    * Quando clicado, envia o dado do tipo string para o banco de dados Mongo
+    * Zera o valor do campo após o clique.
+    * Botão fica desabilitado caso não tenha informação no input.
+
 6 - [BOTÃO DE EDIT TASK]
 
-   * Quando clicado, deve abilitar o campo input que receba um valor novo
-   * Abrir um modal para edição do content e cancelar ou salvar
-   * Quando clica em editat abre um Modal TASKEDITMODAL
+    * Quando clicado, deve abilitar o campo input que receba um valor novo
+    * Abrir um modal para edição do content e cancelar ou salvar
+    * Quando clica em editat abre um Modal TASKEDITMODAL
    
 7 - [BOTÃO DE DELETAR TASK]
 
-   * Quando clicado, deve eliminar a tareka da lista
+    * Quando clicado, deve eliminar a tareka da lista
 
 8 - [SELECT PARA MUDAR O STATUS]
 
-   * Ter um component selectStatus que altera o status da Tarefa "Pendente", "Em andamento", "Pronto""
+    * Ter um component selectStatus que altera o status da Tarefa "Pendente", "Em andamento", "Pronto""
 
 9 - [INTERGAR COM API BACKEND]
 
-   * Ser possível fazer requisições a API do backend com db Mongo. 
+    * Ser possível fazer requisições a API do backend com db Mongo. 
    
 ## BACKEND
 10 - 
