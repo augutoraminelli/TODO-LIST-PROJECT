@@ -118,7 +118,17 @@ docker ps
     - Ser possível fazer requisições a API do backend com db Mongo. 
    
 ## [BACKEND]
-10 - 
+
+10 - [ENDOPOINT '/todo', method POST]
+   
+    - Ter uma rota para o endpoint `/todo` onde seja possível cadastrar uma nova Task
+
+      - Sua API deve responder com status http `201` e o seguinte body:
+       ```JSON
+          _id: "4edd40c86762e0fb12000003",
+          contetent: "Estdar React",
+          status: "Pendente"
+       ``` 
 
 
 
