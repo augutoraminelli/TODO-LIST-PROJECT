@@ -29,7 +29,7 @@ No projeto To Do List é um projeto de estudos, da Trybe, onde a aplicação é 
 
 2. Subir o banco do MongoDB usando Docker
 
-Caso não tenha o MongoDB instalado em sua máquina e deseje usar o Docker, é só seguir os passos a seguir:
+   Caso não tenha o MongoDB instalado em sua máquina e deseje usar o Docker, é só seguir os passos a seguir:
 
  - Baixe a imagem do MongoDB:
 
