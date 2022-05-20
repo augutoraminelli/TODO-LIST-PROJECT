@@ -26,7 +26,7 @@ No projeto To Do List é um projeto de estudos, da Trybe, onde a aplicação é 
 
 ## Requisitos do projeto
 
-## FRONTEND
+## [FRONTEND]
 
 1 - [PAGE TASK]
 
@@ -76,7 +76,7 @@ No projeto To Do List é um projeto de estudos, da Trybe, onde a aplicação é 
 
     - Ser possível fazer requisições a API do backend com db Mongo. 
    
-## BACKEND
+## [BACKEND]
 10 - 
 
 
