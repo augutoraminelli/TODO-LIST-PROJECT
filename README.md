@@ -30,7 +30,7 @@ No projeto To Do List é um projeto de estudos, da Trybe, onde a aplicação é 
 2. Suba o Mongo no docker com o comando no seu terminal
 - `docker run --name mongo -d -p 27017:27017 -p 28017:28017`
 
-3. Entre na pasta do repositório que você acabou de clonar:
+3. Entre na pasta do repositório que você acabou de clonar
  `cd TODO-LIST-PROJECT
 
 4. Instale as dependências
