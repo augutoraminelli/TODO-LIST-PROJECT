@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import App from '../../app';
-import TodosController from '../../app/controllers/TodosController';
+import TodosController from '../../app/controllers/TodoController';
 
 const server = new App();
 
