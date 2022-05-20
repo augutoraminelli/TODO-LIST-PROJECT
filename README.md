@@ -28,23 +28,23 @@ No projeto To Do List é um projeto de estudos, da Trybe, onde a aplicação é 
 
 ## FRONTEND
 
-1 - [PAGE TASK] 
+1 - [PAGE TASK]
     * Ter página de tarefas
     * Deve ter um título com Tag Título "TODO LIST"
   
-2 - [PAGE TASK] 
+2 - [PAGE TASK]
     * Ter um componente FormTodo que cria uma nova tarefa 
     * Ter um campo input que recebe valor String.
     * Deve ter um botão "TASK"
       
-3 - [PAGE TASK] 
+3 - [PAGE TASK]
     * Criar um compontente com "TASKITEM"
     * Recebe a informação das tarefas existentes e renderiza na tela
     * Existe um Button Edit
     * Existe um Button Delete
     * Existe um SELECT Status
         
-4 - [PAGE TASK] 
+4 - [PAGE TASK]
     * Ter um componente "TASKLIST" com as tarefas criadas 
     * Mostrar as respectivas tarefas criadas.
     
