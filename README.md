@@ -24,6 +24,16 @@ No projeto To Do List é um projeto de estudos, da Trybe, onde a aplicação é 
 
 ## Instruções de como rodar o projeto
 
+1. Clone o repositório
+
+- `git clone .
+- Entre na pasta do repositório que você acabou de clonar:
+  - `cd sd-014-a-project-car-shop`
+
+1. Instale as dependências
+
+- `npm install`
+
 ## Requisitos do projeto
 
 ## [FRONTEND]
