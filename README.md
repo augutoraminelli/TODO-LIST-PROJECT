@@ -1,5 +1,7 @@
 # TODO-LIST-PROJECT 🗒
 
+![Captura de Tela 2022-05-20 às 11 03 42](https://user-images.githubusercontent.com/83237861/169544967-e213028f-1fb5-4e12-a739-e58d571137ee.png)
+
 ## Boas vindas ao repositório do projeto To Do List!
 
 Aqui você vai encontrar os detalhes de como rodar o projeto a partir desse repositório e utilizar a lista de Tarefas. #vqv 🚀
