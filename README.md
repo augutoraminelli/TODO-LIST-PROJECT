@@ -27,8 +27,27 @@ No projeto To Do List é um projeto de estudos, da Trybe, onde a aplicação é 
 1. Clone o repositório
 - `git clone .git@github.com:augutoraminelli/TODO-LIST-PROJECT.git`
 
-2. Suba o Mongo no docker com o comando no seu terminal
-- `docker run --name mongo -d -p 27017:27017 -d mongo`
+2. Subir o banco do MongoDB usando Docker
+
+Caso não tenha o MongoDB instalado em sua máquina e deseje usar o Docker, é só seguir os passos a seguir:
+
+ - Baixe a imagem do MongoDB:
+
+```sh
+docker pull mongo
+```
+
+ - Crie o contêiner do MongoDB:
+
+```sh
+docker run --name <nome-do-conteiner> -p 27017:27017 -d mongo
+```
+
+ - Confira se o contêiner está rodando:
+
+```sh
+docker ps
+```
 
 3. Entre na pasta do repositório que você acabou de clonar
  `cd TODO-LIST-PROJECT`
