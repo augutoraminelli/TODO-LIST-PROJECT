@@ -1,5 +1,4 @@
-# TODO-LIST-PROJECT
-
+# TODO-LIST-PROJECT 🗒
 
 ## Boas vindas ao repositório do projeto To Do List!
 
